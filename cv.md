@@ -16,3 +16,8 @@ Education:
 - IT academy, Minsk, Belarus (2019): Java EE
 
 
+Work experience:
+
+- Ministry of Internal Affairs of the Republic of Belarus (October 2010 - April 2017): Security engineer
+- Company "Anviskom" (June 2017 - April 2018): Lead design engineer (fiber optic communication lines)
+- Company "Anviskom" (April 2018 - Present): Chief engineer (fiber optic communication lines)
