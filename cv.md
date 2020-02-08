@@ -25,3 +25,9 @@ Work experience:
 Personal qualities:
 
 - Analytical mind, perseverance, skill to work in team, goal-oriented, stress resistant
+
+Special skills:
+
+- Language skills: Pre-Intermediate (A2)
+- Good knowledge in Linux
+- Java, SQL
